@@ -2,7 +2,7 @@
 
 Passionate about technology, with a focus on AI, web development, and embedded systems. I love exploring the intersection of design and technology to create innovative solutions.
 
-*My public github is a WIP! I've written some horrbile code in my time but Im getting better!*
+*My public github is a WIP! I've written some horrbile code in my time but Im getting better! Slowly better day by day*
 
 ---
 
