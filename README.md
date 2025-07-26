@@ -47,11 +47,6 @@ Passionate about technology, with a focus on AI, web development, and embedded s
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino%20IDE-%2300979D?style=for-the-badge&logo=arduino&logoColor=white" />
 
----
-
-### GitHub Stats
-
-![Jack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jackoske&show_icons=true&theme=dark)
 
 ---
 
